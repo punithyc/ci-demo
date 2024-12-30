@@ -14,7 +14,7 @@
       - name : setup python
         uses : actions/setup-python@v2
         with :
-        python-version: '3.9'
+          
 
       - name : install falke8
         run: 
